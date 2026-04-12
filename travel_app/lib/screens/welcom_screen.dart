@@ -1,5 +1,8 @@
 import 'package:flutter/material.dart';
+<<<<<<< HEAD
 import 'package:travel_app/screens/watch_home_screen.dart';
+=======
+>>>>>>> 1ef646195fb6d8624dbeec57125b9455ecc6eafb
 
 class WelcomScreen extends StatefulWidget {
   const WelcomScreen({super.key});
@@ -20,6 +23,7 @@ class _WelcomScreenState extends State<WelcomScreen> {
           SizedBox(
             height: 100,
           ),
+<<<<<<< HEAD
           TextButton(
               onPressed: () {
                 Navigator.push(context,
@@ -29,6 +33,13 @@ class _WelcomScreenState extends State<WelcomScreen> {
             fontWeight: FontWeight.bold
           ),),
           
+=======
+          Text("Welcom To Home",
+          style: TextStyle(
+            fontSize: 25,
+            fontWeight: FontWeight.bold
+          ),
+>>>>>>> 1ef646195fb6d8624dbeec57125b9455ecc6eafb
           
                   ),
       

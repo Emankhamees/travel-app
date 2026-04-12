@@ -68,7 +68,10 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
                 }
                    ),
               ),
+<<<<<<< HEAD
                 
+=======
+>>>>>>> 1ef646195fb6d8624dbeec57125b9455ecc6eafb
               GestureDetector(
                 onTap: (){
                   if(index==2){
@@ -79,9 +82,14 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
                      curve: Curves.linear);
                   }
                 },
+<<<<<<< HEAD
                 child: Align(
                   alignment: Alignment.centerRight,
                   
+=======
+                child: Positioned(
+                  bottom: 20,
+>>>>>>> 1ef646195fb6d8624dbeec57125b9455ecc6eafb
                   child: Image.asset("assets/image/Frame 3.png",width: 50,
                   height: 50,),
                 ),
