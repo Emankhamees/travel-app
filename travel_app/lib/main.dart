@@ -4,6 +4,7 @@ import 'package:travel_app/screens/onboarding_screen.dart';
 import 'package:travel_app/screens/signup_screen.dart';
 import 'package:travel_app/screens/splash_screen.dart';
 import 'package:travel_app/screens/verivy_screen.dart';
+import 'package:travel_app/screens/watch_home_screen.dart';
 import 'package:travel_app/screens/welcom_screen.dart';
 
 
